@@ -8,7 +8,7 @@
   },
   "d1_databases": [
     {
-      "binding": "Database", // This must match the name used in your code (env.Database)
+      "binding": "Database", 
       "database_name": "shiko",
       "database_id": "fd534c7a-80de-4ff0-83e7-39b8598749d3"
     }
