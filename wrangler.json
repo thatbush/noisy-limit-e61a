@@ -6,6 +6,10 @@
   "ai": {
     "binding": "AI"
   },
+  "D1": {
+    "binding": "Database"
+  }
+  
   "observability": {
     "enabled": true
   }
