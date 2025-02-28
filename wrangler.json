@@ -6,10 +6,17 @@
   "ai": {
     "binding": "AI"
   },
-  "D1": {
-    "binding": "Database"
+  "d1_databases": [
+    {
+      "binding": "Database", // This must match the name used in your code (env.Database)
+      "database_name": "shiko",
+      "database_id": "fd534c7a-80de-4ff0-83e7-39b8598749d3"
+    }
+  ],
+  "vars": {
+    "WABA_ID": "592537133939366",
+    "WHATSAPP_API_KEY": "EAARANcFonjcBOxfPO6YrljRVqxWNi3ggc2Bi1r8ldtpuy6UpIE5nnL6ZCe1lNnni4wkCWzc4QxMuU9AeVRlC2ro2t8BqHtfAYNqac5f4G8FKreUrpHJrNMYe1pzQZA5RvJbdcR5OiaxqtdmqjIoWytb0nYcK81poEGTIAf0kFVfTOTZBtTPMfCKGaAUKF2icQZDZD"
   },
-  
   "observability": {
     "enabled": true
   }
